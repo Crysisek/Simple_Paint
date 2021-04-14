@@ -1,2 +1,2 @@
 # Simple_Paint
- Simple paint with implementation of fill
+ Simple paint with implementation of fill.
